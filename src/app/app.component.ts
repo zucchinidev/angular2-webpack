@@ -5,4 +5,6 @@ import '../../public/css/styles.css'; // load with angular2-template-loader plug
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent { }
+export class AppComponent {
+  public title: string = 'Hello from Angular App with Webpack';
+}
