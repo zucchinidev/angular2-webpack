@@ -1,6 +1,6 @@
 {
   "name": "angular2-webpack",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A webpack starter for Angular",
   "scripts": {
     "start": "webpack-dev-server --inline --progress --port 8080",
@@ -11,7 +11,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/angular/angular.io/blob/master/LICENSE"
+      "url": "https://github.com/zucchinidev/angular2-webpack/master/LICENSE"
     }
   ],
   "dependencies": {
